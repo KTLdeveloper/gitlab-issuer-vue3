@@ -11,20 +11,20 @@
    - callback hell
    - closure
    - hoisting
-<br>
-這裡以上是觀念
-<hr>
+      <br>
+      這裡以上是觀念
+      <hr>
    - promise
    - async & await
    - axios interceptor
    - polyfill
    - babel
-<hr>
+      <hr>
    - design pattern
    - clean code
    - functional programming
    - RxJs
-<hr>
+      <hr>
 - css
   - css3
   - flexbox & grid
