@@ -12,19 +12,19 @@
    - closure
    - hoisting
       <br>
-      這裡以上是觀念
-      <hr>
+      <span style="color:gold;">這裡以上是觀念</span>
+      <hr style="height:1px;margin:5px">
    - promise
    - async & await
    - axios interceptor
    - polyfill
    - babel
-      <hr>
+      <hr style="height:1px;margin:5px">
    - design pattern
    - clean code
    - functional programming
    - RxJs
-      <hr>
+      <hr style="height:1px;margin:5px">
 - css
   - css3
   - flexbox & grid
